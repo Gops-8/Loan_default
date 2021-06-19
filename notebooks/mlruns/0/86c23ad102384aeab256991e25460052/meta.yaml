@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Learning/MLOPS/Loan_default/notebooks/mlruns/0/86c23ad102384aeab256991e25460052/artifacts
+end_time: 1623947797690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 86c23ad102384aeab256991e25460052
+run_uuid: 86c23ad102384aeab256991e25460052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623947797591
+status: 3
+tags: []
+user_id: gopal
